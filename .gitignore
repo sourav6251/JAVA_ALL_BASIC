@@ -33,3 +33,5 @@ bin/
 skd.txt
 skl.txt
 .env
+.idea
+first.iml
